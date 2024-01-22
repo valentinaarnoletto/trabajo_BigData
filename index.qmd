@@ -1,0 +1,30 @@
+---
+title: "La crisis de Argentina" 
+image: imagenes/my_foto.jpg      #- poned una foto vuestra
+about:
+  template: solana        #- {jolla, solana, ...}
+  image-width: 22em         #- https://cybmeta.com/em-y-rem
+  image-shape: rounded    #- {rectangle, round, rounded}
+  links:
+    - icon: envelope
+      text: e-mail
+      url: "mailto:var@alumni.uv.es"        
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/valentina-arnoletto-7b9790163   
+    - icon: github
+      text: Github
+      href: https://github.com/valentinaarnoletto       
+---
+        
+Hola, soy Valentina Julieta Arnoletto
+      
+Esta web sirve para presentar el trabajo final individual para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-23-24-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-23-24-web/05-trabajos-estudiantes.html){target="_blank"}.
+
+
+Mi trabajo lleva por título : "La crisis de Argentina". El objetivo es mostrar de forma general la continua crisis que atraviesa Argentina desde hace décadas, y como la evolución de las variables económicas contribuyen negativamente al desarrollo del país.
+
+
+El trabajo puede verse [aquí](my_trabajo_BigData.html).
