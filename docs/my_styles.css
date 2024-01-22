@@ -1,0 +1,60 @@
+/* css styles */
+
+/* justificar el texto */ 
+p, ul, ol {
+  text-align: justify; }    
+  
+/* definiendo estilos del titulo del documento */ 
+.title {
+  font-size: 40px;
+  color: dodgerblue;
+  font-weight: bold;
+  text-align: center; }
+
+/* definiendo estilos del titulo del author  */ 
+.author {
+  font-size: 25px;
+  color: dodgerblue; }
+
+/* definiendo estilos para la fecha */ 
+.date {
+  color: dodgerblue; }  
+  
+/* definiendo estilos de los títulos de primer nivel (h1) */ 
+h1 {
+  color: royalblue;
+  font-size: 35px;
+  margin-top: 45px;       /* dejar algo de espacio (45 pixeles) antes de un título de primer nivel*/ 
+  margin-bottom: 35px; }  /* dejar algo de espacio despúes de un título de primer nivel*/ 
+
+
+/* definiendo estilos de los títulos de h2 a h5 nivel */ 
+h2, h3, h4, h5 { 
+  color: steelblue;
+  letter-spacing: 0.04em;  /* espaciado enre las letras (0.04 de la altura de la tipografía) */
+  margin-left: 15px; }  /* dejar espacio a la izquierda*/
+  
+
+/* hacer cambios en el texto en negrita */ 
+strong {
+  color: black; }
+  
+  
+/* cambiar el color de los hipervinculos/enlaces  */
+a {
+  color: purple;
+  font-weight: bold; }
+
+
+.azul {
+  color: blue;
+}
+
+.azul-background {
+  background-color: blue;
+}
+
+.importante {
+  color: blue;
+  background-color: blue;
+}
